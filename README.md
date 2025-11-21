@@ -66,7 +66,9 @@ This project analyzes Amazon e-commerce sales data and transforms it into an int
 
 ## 📸 Dashboard Preview
 
-![Amazon Sales Dashboard](DASHBOARD_1.png)
+![Amazon Sales Dashboard] 
+<img width="1280" height="708" alt="DASHBOARD 1" src="https://github.com/user-attachments/assets/34dc0a82-b148-4e6b-a60a-1204cb26c8c1" />
+
 
 Upload this image to your GitHub repo inside an `assets/` folder and update the path accordingly.
 
