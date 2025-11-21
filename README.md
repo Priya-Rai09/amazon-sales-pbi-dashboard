@@ -1,4 +1,4 @@
-# amazon-sales-pbi-dashboard
+
 # Amazon Sales Power BI Dashboard
 
 A comprehensive **Amazon Sales Analytics Dashboard** built using **Power BI**, showcasing insights on sales performance, customer behavior, product categories, and overall business growth.
